@@ -6,7 +6,6 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about **Ar
 - Developing a mobile application that monitors **tuberculosis patients** using **AI** for detecting medication intake through video analysis.
 - Building **AI Voice Assistants**.
 - Implementing **video solutions** in **Edge computing** environments and deploying industrial AI models in the **cloud** (GCP, Azure).
-- Developing a **Retriever-Augmented Generation (RAG) chatbot** using **Azure** and **GPT-4**.
 
 ### 🌱 I’m currently learning:
 - **Advanced AI techniques** in **video processing** and **natural language processing (NLP)**.
