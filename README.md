@@ -25,4 +25,5 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about **Ar
 
 ### 😄 Pronouns: He/Him
 
-### ⚡ Fun fact:  I’m passionate about using AI to make a real-world impact and love to work on projects that push the boundaries of technology!
+### ⚡ Fun fact:  
+I’m passionate about using AI to make a real-world impact and love to work on projects that push the boundaries of technology!
