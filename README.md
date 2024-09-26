@@ -12,23 +12,18 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about **Ar
 ### 🌱 I’m currently learning:
 - **Advanced AI techniques** in **video processing** and **natural language processing (NLP)**.
 - Exploring the integration of **AI systems** into **healthcare applications**.
-- **Kotlin** for app development, particularly focusing on **real-time audio and video processing**.
 
 ### 👯 I’m looking to collaborate on:
 - AI-driven projects involving **real-time data processing** and **predictive analytics**.
-- Open-source contributions related to **AI in healthcare** and **industrial applications**.
 
 ### 🤔 I’m looking for help with:
-- Further optimizing **LSTM models** for handling **sequential data** from video frames.
 - Exploring innovative **AI applications** in **robotics** and **IoT** using **Jetson Nano**.
 
 ### 💬 Ask me about:
 - Anything related to **AI in Industry 4.0**, **real-time voice assistants**, and **predictive maintenance**.
-- **Cloud solutions** using **Azure**, **GCP**, **AWS**, and **Edge Computing** technologies such as **Jetson - NVIDIA**.
 
 ### 📫 How to reach me:
 - LinkedIn: [Elio Revilla](https://www.linkedin.com/in/elio-revilla-perez/)
-- Email: eliorevillaperez@gmail.com
 
 ### 😄 Pronouns: He/Him
 
