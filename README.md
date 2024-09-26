@@ -1,12 +1,11 @@
-## Hi there 👋 I'm Elio Revilla Pérez!
+## Hi there 👋 I'm Elio Revilla!
 
-I'm a **Machine Learning Engineer** and **Data Scientist** passionate about **Artificial Intelligence** and its applications in **industrial environments**. Currently, I'm pursuing a Master's in **Artificial Intelligence** at the **Pontificia Universidad Católica de Chile**.
+I'm a **Machine Learning Engineer** and **Data Scientist** passionate about **Artificial Intelligence** and its applications in **industrial environments**.
 
 ### 🔭 I’m currently working on:
 - Developing a mobile application that monitors **tuberculosis patients** using **AI** for detecting medication intake through video analysis.
 - Building **AI Voice Assistants**.
-- Implementing **video solutions** in **Edge computing** environments.
-- Deploying industrial AI models in the **cloud** (GCP, Azure).
+- Implementing **video solutions** in **Edge computing** environments and deploying industrial AI models in the **cloud** (GCP, Azure).
 - Developing a **Retriever-Augmented Generation (RAG) chatbot** using **Azure** and **GPT-4**.
 
 ### 🌱 I’m currently learning:
