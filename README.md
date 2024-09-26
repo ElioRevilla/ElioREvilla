@@ -15,7 +15,7 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about **Ar
 - AI-driven projects involving **real-time data processing** and **predictive analytics**.
 
 ### 🤔 I’m looking for help with:
-- Exploring innovative **AI applications** in **robotics** and **IoT** using **Jetson Nano**.
+- Exploring innovative **AI applications** in **healthcare** using **Edge computing**.
 
 ### 💬 Ask me about:
 - Anything related to **AI in Industry 4.0**, **real-time voice assistants**, and **predictive maintenance**.
